@@ -38,5 +38,14 @@ ImageCraft is a Full Stack SaaS AI application built using **MongoDB, Express.js
 - **Razorpay**
 
 ---
+## 👨‍💻 Author
 
+**Anuj Diwakar**
+
+- GitHub: https://github.com/anujdiwakar04
+- LinkedIn: https://www.linkedin.com/in/anuj-diwakar/
+
+---
+
+## ⭐ If you found this project useful, please give it a star on GitHub!
  
